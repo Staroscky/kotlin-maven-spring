@@ -1,7 +1,6 @@
-package com.curso.kotlinspringmaven.controller
+package com.curso.kotlinspringmaven.adapters.input.web.v1.controller
 
 import com.curso.kotlinspringmaven.model.Account
-import com.curso.kotlinspringmaven.repository.AccountRepository
 import com.curso.kotlinspringmaven.services.AccountService
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
